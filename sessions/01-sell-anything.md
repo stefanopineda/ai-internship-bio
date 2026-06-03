@@ -1,4 +1,4 @@
-# I Knocked on 500 Doors So You Don't Have To
+# I Knocked on 1000 Doors So You Don't Have To
 ### Selling Anything, From Doorbells to DMs
 
 **Format:** ~60 min (45 min talk + 15 min Q&A / role-play)
@@ -7,7 +7,7 @@
 ---
 
 ## Hook (3 min)
-- Two months on shore between submarine duties, I voluntarily did door-to-door sales for Verizon. Not because I needed the money — because I wanted reps. I wanted to know what it felt like to hear "no" 50 times in an afternoon and ring the next doorbell anyway.
+- Two months on shore between submarine duties, I voluntarily did door-to-door sales for Verizon 5G internet. Not because I needed the money — because I wanted reps. I wanted to know what it felt like to hear "no" 50 times in an afternoon and ring the next doorbell anyway.
 - The single most underrated entrepreneurship skill is sales. Most technical founders can build anything and sell nothing. If you can sell, you will never starve.
 - Today: the history of selling, the modern playbook, and the psychology that has never changed.
 
