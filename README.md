@@ -6,28 +6,28 @@
 - Navy nuclear power training; served on submarines as Shift Engineering Manager (underway) and Engineering Testing Manager (in port)
 - Currently a Navy recruiter; transitioning out in ~16 months to pursue entrepreneurship
 - Built multiple apps with Claude that automated most of the tedious parts of my recruiting job
-- Invested aggressively through my Navy career — built a ~2-year runway to take entrepreneurial risk
-- Own two rental properties (Virginia and South Carolina) — hands-on experience managing tenants, vendors, and people
+- Invested aggressively through my Navy career — built a few-year runway to take entrepreneurial risk
+- Own two rental properties (Virginia and South Carolina) — hands-on experience managing tenants, contractors, and people.
 
 ## What I Can Teach
 
-**Building with AI (no CS degree needed)**
+**Building with AI (no CS degree needed — Claude/Chat/Gemini teach you faster)**
 I'm a mechanical engineer who used Claude to build real, working apps. I can live-build a tool in front of you and teach the loop: spot a tedious task → describe it → iterate → ship.
 
 **Systems & app architecture**
-Hands-on with databases (and backups for databases/remote servers), continuous deployment, hosting, domains, and building sites. Comfortable with tools like Tailscale and Resend, and with the terminal — though with Claude you can now do almost all of it through plain language.
+Hands-on with databases (and backups for databases/remote servers), continuous deployment, hosting, domains, building sites, and services.
 
 **Spotting automatable work**
 Nuclear/submarine training is about procedures and finding the bottleneck. I can teach you to audit any workflow for the repetitive 80% and ask "could a model do this?"
 
 **Sales & persuasion**
-Door-to-door sales for Verizon, full-time Navy recruiter, and currently doing live cold-call sales for my own startup. Sales is the most underrated entrepreneurship skill — cold outreach, talking to strangers, handling objections, building a pipeline.
+Part time experience with Door-to-door sales for Verizon, full-time Navy recruiter. Sales is the most underrated entrepreneurship skill — cold outreach, talking to strangers, handling objections, building a pipeline.
 
 **Leadership under real stakes**
 Led sailors on a submarine and run a recruiting operation. Decision-making with incomplete information, leading people older than you, ownership when failure is expensive.
 
 **Personal finance & building runway**
-Invested aggressively on a military salary to buy myself the freedom to take risks. Compounding, living below your means, and how financial discipline creates options.
+Invested aggressively on a military salary to buy optionality to pursue higher leverage opportunities. Compounding, living below your means, and how financial discipline creates options.
 
 **Grit & learning hard things fast**
 The Navy nuclear pipeline is one of the most demanding academic programs anywhere — study systems, resilience, and learning material that feels impossible at first.
@@ -53,10 +53,10 @@ Maximize the top, minimize the bottom. I've watched hundreds of hours of Hormozi
 
 ## My Library
 
-I've self-educated heavily — these are books I've read (many more than once) and can draw on:
+I've self-educated heavily — here are a few books I've read (many more than once) and recommend:
 
-- **Sales & persuasion:** Hormozi's $100M Offers / $100M Leads, The Ultimate Sales Machine (Holmes), Influence (Cialdini), Secrets of Closing the Sale (Ziglar), The Psychology of Selling (Tracy), How I Raised Myself from Failure to Success in Selling (Bettger), Hacking Growth
-- **Startups & business:** Zero to One (Thiel), Traction, Start Small Stay Small & The SaaS Playbook (Walling), Ready Fire Aim (Masterson), The E-Myth Revisited (Gerber), Launch (Walker), Blue Fishing
+- **Sales & persuasion:** Hormozi's $100M Offers / $100M Leads / $100M Marketing, The Ultimate Sales Machine (Holmes), Influence (Cialdini), Secrets of Closing the Sale (Ziglar), The Psychology of Selling (Tracy), How I Raised Myself from Failure to Success in Selling (Bettger), Hacking Growth
+- **Startups & business:** Zero to One (Thiel), Traction, Start Small Stay Small & The SaaS Playbook (Walling), Ready Fire Aim (Masterson), The E-Myth Revisited (Gerber), Launch (Walker), Blue Fishing, Crossing the Chiasm
 - **Investing & companies:** The Dhandho Investor (Pabrai), The Education of a Value Investor (Spier), The Nvidia Way, Rich Dad Poor Dad
 - **Mental models & mindset:** Everything by Taleb, The Compound Effect (Hardy), Think and Grow Rich (Hill), The Magic of Thinking Big (Schwartz), 7 Habits (Covey), Who Moved My Cheese (Johnson), How to Win Friends and Influence People (Carnegie)
 - **Philosophy, power & history:** Meditations (Marcus Aurelius), 48 Laws of Power (Greene), Beyond Order & Maps of Meaning (Peterson), The Fourth Turning / Generations (Strauss & Howe)
