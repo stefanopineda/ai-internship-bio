@@ -62,12 +62,14 @@ I've self-educated heavily — these are books I've read (many more than once) a
 - **Philosophy, power & history:** Meditations (Marcus Aurelius), 48 Laws of Power (Greene), Beyond Order & Maps of Meaning (Peterson), The Fourth Turning / Generations (Strauss & Howe)
 - **Biographies:** Benjamin Franklin: An American Life, Elon Musk, Sam Walton: Made in America
 
-## Possible Sessions
+## Sessions
 
-- Build an AI tool live (60 min)
-- Personal finance for your first paycheck
-- How to sell anything / cold outreach
-- Leadership under pressure
-- Calculated risk: building optionality before you need it
-- The Value Equation: how to tell if a product idea is worth building
-- Incentives 101: why outcomes tell you everything
+Seven ~60-minute sessions are fully outlined in **[`/sessions`](sessions/)**:
+
+1. [I Knocked on 500 Doors So You Don't Have To](sessions/01-sell-anything.md) — sell anything / cold outreach
+2. [The Money Waterfall](sessions/02-personal-finance.md) — personal finance (US + India)
+3. [Heads I Win, Tails I Don't Lose Much](sessions/03-calculated-risk.md) — calculated risk & optionality
+4. [The Only Equation in Business That Matters](sessions/04-value-equation.md) — Hormozi's value equation
+5. [Show Me the Incentive, I'll Show You the Outcome](sessions/05-incentives.md) — incentives 101
+6. [You Don't Rise to the Occasion](sessions/06-leadership-under-pressure.md) — leadership under pressure
+7. [How I Cloned Myself With Claude](sessions/07-build-ai-tool-live.md) — build an AI tool live (capstone)
