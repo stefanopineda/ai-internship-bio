@@ -1,4 +1,4 @@
-# How I Can Help — Stef Pineda
+# How I Can Help — Stefano Pineda
 
 ## Background
 
