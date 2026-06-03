@@ -55,8 +55,8 @@ Maximize the top, minimize the bottom. I've watched hundreds of hours of Hormozi
 
 I've self-educated heavily — here are a few books I've read (many more than once) and recommend:
 
-- **Sales & persuasion:** Hormozi's $100M Offers / $100M Leads / $100M Marketing, The Ultimate Sales Machine (Holmes), Influence (Cialdini), Secrets of Closing the Sale (Ziglar), The Psychology of Selling (Tracy), How I Raised Myself from Failure to Success in Selling (Bettger), Hacking Growth
-- **Startups & business:** Zero to One (Thiel), Traction, Start Small Stay Small & The SaaS Playbook (Walling), Ready Fire Aim (Masterson), The E-Myth Revisited (Gerber), Launch (Walker), Blue Fishing, Crossing the Chiasm
+- **Sales & persuasion:** Hormozi's $100M Offers / $100M Leads / $100M Money Models, The Ultimate Sales Machine (Holmes), Influence (Cialdini), Secrets of Closing the Sale (Ziglar), The Psychology of Selling (Tracy), How I Raised Myself from Failure to Success in Selling (Bettger), Hacking Growth
+- **Startups & business:** Zero to One (Thiel), Traction, Start Small Stay Small & The SaaS Playbook (Walling), Ready Fire Aim (Masterson), The E-Myth Revisited (Gerber), Launch (Walker), Blue Fishing, Crossing the Chasm (Moore)
 - **Investing & companies:** The Dhandho Investor (Pabrai), The Education of a Value Investor (Spier), The Nvidia Way, Rich Dad Poor Dad
 - **Mental models & mindset:** Everything by Taleb, The Compound Effect (Hardy), Think and Grow Rich (Hill), The Magic of Thinking Big (Schwartz), 7 Habits (Covey), Who Moved My Cheese (Johnson), How to Win Friends and Influence People (Carnegie)
 - **Philosophy, power & history:** Meditations (Marcus Aurelius), 48 Laws of Power (Greene), Beyond Order & Maps of Meaning (Peterson), The Fourth Turning / Generations (Strauss & Howe)
