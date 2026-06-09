@@ -73,3 +73,5 @@ Seven ~60-minute sessions are fully outlined in **[`/sessions`](sessions/)**:
 5. [Show Me the Incentive, I'll Show You the Outcome](sessions/05-incentives.md) — incentives 101
 6. [You Don't Rise to the Occasion](sessions/06-leadership-under-pressure.md) — leadership under pressure
 7. [How I Cloned Myself With Claude](sessions/07-build-ai-tool-live.md) — build an AI tool live (capstone)
+
+Slide decks (Marp → PDF/PPTX) and per-slide talking notes for all seven live in **[`/slides`](slides/)**.
