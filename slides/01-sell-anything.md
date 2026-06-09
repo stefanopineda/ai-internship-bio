@@ -9,7 +9,7 @@ footer: "Sell Anything · Stefano Pineda"
 <!-- _paginate: false -->
 <!-- _footer: "" -->
 
-# I Knocked on 500 Doors So You Don't Have To
+# I Knocked on 1000 Doors So You Don't Have To
 
 ## Selling anything, from doorbells to DMs
 
@@ -36,10 +36,10 @@ If you can sell, you will never starve. It is the most transferable skill there 
 
 ## I volunteered to knock on doors.
 
-**Two months. Verizon. Door-to-door.**
+**Two months. Verizon 5G internet. Door-to-door.**
 
 <!--
-My confession: between submarine assignments, I voluntarily did door-to-door sales for Verizon for two months.
+My confession: between submarine assignments, I voluntarily did door-to-door sales for Verizon 5G internet for two months.
 I didn't need the money. I wanted the REPS. I wanted to know what it felt like to get rejected to my face over and over and keep going.
 Engineers and military officers are not "natural salespeople." I wanted to build the muscle deliberately, the same way I'd build any other skill.
 -->

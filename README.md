@@ -66,7 +66,7 @@ I've self-educated heavily — here are a few books I've read (many more than on
 
 Seven ~60-minute sessions are fully outlined in **[`/sessions`](sessions/)**:
 
-1. [I Knocked on 500 Doors So You Don't Have To](sessions/01-sell-anything.md) — sell anything / cold outreach
+1. [I Knocked on 1000 Doors So You Don't Have To](sessions/01-sell-anything.md) — sell anything / cold outreach
 2. [The Money Waterfall](sessions/02-personal-finance.md) — personal finance (US + India)
 3. [Heads I Win, Tails I Don't Lose Much](sessions/03-calculated-risk.md) — calculated risk & optionality
 4. [The Only Equation in Business That Matters](sessions/04-value-equation.md) — Hormozi's value equation

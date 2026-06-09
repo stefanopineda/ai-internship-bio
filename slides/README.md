@@ -22,7 +22,7 @@ npm run pdf --deck=01-sell-anything
 
 | # | File | Title |
 |---|------|-------|
-| 1 | `01-sell-anything.md` | I Knocked on 500 Doors So You Don't Have To |
+| 1 | `01-sell-anything.md` | I Knocked on 1000 Doors So You Don't Have To |
 | 2 | `02-personal-finance.md` | The Money Waterfall |
 | 3 | `03-calculated-risk.md` | Heads I Win, Tails I Don't Lose Much |
 | 4 | `04-value-equation.md` | The Only Equation in Business That Matters |
