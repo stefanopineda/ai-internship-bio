@@ -14,10 +14,9 @@ footer: "Sell Anything · Stefano Pineda"
 ## Selling anything, from doorbells to DMs
 
 <!--
-TALK TRACK — open here.
-Welcome them. One line: "Everyone in this room is already a salesperson — you sell yourself in every interview, every date, every pitch to your parents. Today I want to make you good at it on purpose."
-Set the frame: the medium of selling has changed completely in 30 years. The human on the other side has not changed at all. Master the human and you can sell in any era.
-Total run: ~45 min of talking + role-play at the end.
+Open here. "Everyone in this room is already a salesperson — you sell yourself in every interview, every pitch to your parents. Today I want to make you good at it on purpose."
+Frame: the MEDIUM of selling changed completely in 30 years. The human on the other side did not. Master the human and you can sell in any era.
+~45 min talk + role-play at the end.
 -->
 
 ---
@@ -29,19 +28,38 @@ Total run: ~45 min of talking + role-play at the end.
 <!--
 The single most underrated skill in entrepreneurship is sales.
 Most technical founders can build anything and sell nothing — and their company dies with a great product nobody bought.
-If you can sell, you will never starve. It is the most transferable skill there is.
+If you can sell, you will never starve. Most transferable skill there is.
+-->
+
+---
+
+## You're always selling **you**.
+
+Not everyone here will start a company.
+**Everyone** here will sell themselves.
+
+- In every **interview**
+- As a **founder** — your vision, to customers and investors
+- As an **intrapreneur** — your ideas, inside someone else's company
+
+<!--
+Important for this room: I know not everyone here plans to do a startup. Doesn't matter.
+Whether you become a founder pitching investors, or an intrapreneur pitching your boss on a new project, or a new grad in a job interview — you are selling yourself. Constantly.
+An interview IS a sales call: you are the product, and you're persuading them to "buy." Everything today applies to you whether or not you ever start a company.
 -->
 
 ---
 
 ## I volunteered to knock on doors.
 
-**Two months. Verizon 5G internet. Door-to-door.**
+**Two months · Verizon 5G internet · door-to-door**
+
+![bg right:38% fit](images/verizon.png)
 
 <!--
 My confession: between submarine assignments, I voluntarily did door-to-door sales for Verizon 5G internet for two months.
-I didn't need the money. I wanted the REPS. I wanted to know what it felt like to get rejected to my face over and over and keep going.
-Engineers and military officers are not "natural salespeople." I wanted to build the muscle deliberately, the same way I'd build any other skill.
+I didn't need the money. I wanted the REPS — to know what it felt like to get rejected to my face over and over and keep going.
+Engineers and military officers are not "natural salespeople." I built the muscle on purpose, like any other skill.
 -->
 
 ---
@@ -54,7 +72,7 @@ Engineers and military officers are not "natural salespeople." I wanted to build
 <!--
 The real lesson of the doorstep: detachment from outcome.
 You will hear "no" far more than "yes." If each no wounds you, you quit. If you treat it as data, you win.
-This is the emotional core of all sales — and all entrepreneurship. Volume + resilience.
+This is the emotional core of all sales and all entrepreneurship: volume + resilience.
 -->
 
 ---
@@ -65,7 +83,7 @@ This is the emotional core of all sales — and all entrepreneurship. Volume + r
 # The evolution of the sale
 
 <!--
-Now the history. Watch how the CHANNEL moves through four eras — but the underlying principles never move.
+Watch the CHANNEL move through four eras — but the underlying principles never move.
 -->
 
 ---
@@ -78,8 +96,8 @@ Now the history. Watch how the CHANNEL moves through four eras — but the under
 
 <!--
 The bazaar, the general store, the handshake.
-Sam Walton — "Made in America" — built the biggest retailer on earth by walking his own store floors, watching customers, obsessing over their experience.
-Lesson that survives every era: relentless customer obsession. Go to where the customer is and watch them.
+Sam Walton — Made in America — built the biggest retailer on earth by walking his own store floors, watching customers.
+Lesson that survives every era: relentless customer obsession. Go where the customer is and watch them.
 -->
 
 ---
@@ -92,8 +110,8 @@ Lesson that survives every era: relentless customer obsession. Go to where the c
 
 <!--
 My Verizon stint lives here.
-You have about 7 seconds before they decide. Tonality, posture, and your very first sentence are everything.
-You learn that HOW you say it beats WHAT you say. People buy the energy before they buy the offer.
+About 7 seconds before they decide. Tonality, posture, and your first sentence are everything.
+HOW you say it beats WHAT you say. People buy the energy before they buy the offer.
 -->
 
 ---
@@ -106,8 +124,8 @@ You learn that HOW you say it beats WHAT you say. People buy the energy before t
 
 <!--
 Phone sales: volume, scripts, objection handling at scale.
-This isn't ancient history for me — I cold-call small businesses TODAY for my AI receptionist startup.
-The phone removed the commute between doors. You can now "knock" far faster.
+Not ancient history — I cold-call small businesses TODAY for my AI receptionist startup.
+The phone removed the walk between doors. You "knock" far faster.
 -->
 
 ---
@@ -120,8 +138,8 @@ The phone removed the commute between doors. You can now "knock" far faster.
 
 <!--
 Landing pages, email, DMs, ads.
-The doorbell turned into a "Notify me" button. You can now knock on 10,000 doors while you sleep.
-This is the leverage explosion — and it's available to a 19-year-old with a laptop. That's new in history.
+The doorbell turned into a "Notify me" button. You can knock on 10,000 doors while you sleep.
+The leverage explosion — available to a 19-year-old with a laptop. That's new in history.
 -->
 
 ---
@@ -132,9 +150,9 @@ This is the leverage explosion — and it's available to a 19-year-old with a la
 # The human didn't.
 
 <!--
-This is the through-line of the entire talk. Tattoo it on your brain.
+The through-line of the entire talk. Tattoo it on your brain.
 Every era rewards the same two things: earning attention, and reducing the friction to "yes."
-Learn the human and you are future-proof, no matter what the next channel is.
+Learn the human and you are future-proof, whatever the next channel is.
 -->
 
 ---
@@ -146,7 +164,7 @@ Learn the human and you are future-proof, no matter what the next channel is.
 *…and measure demand*
 
 <!--
-Now the practical, do-it-this-week mechanics. This is where ideas become businesses.
+The practical, do-it-this-week mechanics. Where ideas become businesses.
 -->
 
 ---
@@ -156,7 +174,7 @@ Now the practical, do-it-this-week mechanics. This is where ideas become busines
 A single Stripe link. That's it.
 
 <!--
-The biggest beginner mistake: build for 6 months, THEN try to sell.
+Biggest beginner mistake: build for 6 months, THEN try to sell.
 Flip it. Put up a payment link or pre-order first. If people pay, you have a business. If they won't, you just saved 6 months.
 -->
 
@@ -180,9 +198,9 @@ Money is the only honest vote.
 A one-page site. An email box. Real demand.
 
 <!--
-The cheapest market test on earth: a one-page site that says "Be the first to know when it goes live" with an email capture.
+Cheapest market test on earth: a one-page site, "Be the first to know when it goes live," with an email capture.
 Real emails from strangers >> polite encouragement from friends.
-You can validate an idea this weekend for $0 before writing a line of product.
+Validate an idea this weekend for $0 before writing a line of product.
 -->
 
 ---
@@ -191,9 +209,17 @@ You can validate an idea this weekend for $0 before writing a line of product.
 
 A deposit is the only honest survey.
 
+- Tesla Roadster — **$5,000 due today** to reserve
+- Cybertruck, Semi — same playbook
+- Facebook — wait in line for an invite
+- Books — pre-order before they're printed
+
 <!--
-Surveys lie because saying yes is free. A pre-order or deposit costs the customer something, so it tells the truth.
-Tie to Ready, Fire, Aim (Masterson): get SOMETHING in front of a real customer fast, then refine. Selling is how you learn what to build.
+Surveys lie because saying yes is free. A pre-order/deposit costs the customer something, so it tells the truth.
+Tesla took $5,000 deposits for a Roadster that didn't exist yet — did the same with Cybertruck and the Semi. Facebook made you wait in line for an invite (scarcity + demand signal). You can pre-order a book before it's printed.
+All of these collect real money or real commitment BEFORE building. That's the move.
+Tie to Ready, Fire, Aim (Masterson): get something real in front of a customer fast.
+DROP IN: a screenshot of tesla.com/roadster/reserve (#payment) showing the Roadster + "$5,000 due today". Save as images/tesla-roadster-reserve.png, then add this line to the slide: ![bg right:42%](images/tesla-roadster-reserve.png)
 -->
 
 ---
@@ -205,7 +231,7 @@ Tie to Ready, Fire, Aim (Masterson): get SOMETHING in front of a real customer f
 *Four ways to get a customer*
 
 <!--
-From Hormozi's $100M Leads. There are exactly four lanes to get customers. Just four. Everything is a version of these.
+From Hormozi's $100M Leads. Exactly four lanes to get customers. Just four. Everything is a version of these.
 -->
 
 ---
@@ -228,8 +254,8 @@ Walk the grid. We'll take each corner in turn.
 **Start here. It's free.**
 
 <!--
-Texting and calling people who already know you. Your "100-person list."
-It's free, it converts best, and it's where almost everyone should start. Most beginners skip it because it feels uncomfortable to sell to people they know.
+Texting/calling people who already know you. Your "100-person list."
+Free, converts best, where almost everyone should start. Beginners skip it because selling to people you know feels uncomfortable.
 -->
 
 ---
@@ -239,8 +265,8 @@ It's free, it converts best, and it's where almost everyone should start. Most b
 
 <!--
 Cold calls, cold DMs, cold email to strangers.
-This is what I do every day for my startup right now.
-The formula: volume × personalization × follow-up. And most of the money is in the follow-up — people quit after one touch.
+What I do every day for my startup right now.
+Formula: volume × personalization × follow-up. Most of the money is in the follow-up — people quit after one touch.
 -->
 
 ---
@@ -250,7 +276,7 @@ The formula: volume × personalization × follow-up. And most of the money is in
 
 <!--
 One-to-many, warm. Posting free, useful content that builds an audience.
-I made a YouTube video about a tool I built — it keeps selling my work while I sleep. That's compounding leverage.
+I made a YouTube video about a tool I built — it keeps selling my work while I sleep. Compounding leverage.
 -->
 
 ---
@@ -260,7 +286,7 @@ I made a YouTube video about a tool I built — it keeps selling my work while I
 
 <!--
 One-to-many, cold. Renting attention with money.
-Only turn this on AFTER your offer already converts organically. Ads pour fuel on a fire; if there's no fire, you just burn cash.
+Only turn this on AFTER your offer already converts organically. Ads pour fuel on a fire; no fire = you just burn cash.
 -->
 
 ---
@@ -272,7 +298,7 @@ Only turn this on AFTER your offer already converts organically. Ads pour fuel o
 
 <!--
 The beginner death is doing all four badly.
-Pick one lane. Go deep until it's working and predictable. THEN add the next. Focus beats diversification when you're small.
+Pick one lane. Go deep until it's predictable. THEN add the next. Focus beats diversification when you're small.
 -->
 
 ---
@@ -282,73 +308,118 @@ Pick one lane. Go deep until it's working and predictable. THEN add the next. Fo
 ### Part 4
 # The psychology that never changes
 
+![bg right:35% fit](images/influence-cover.jpg)
+
 <!--
-The channel changes; the brain does not. Robert Cialdini's six principles of influence — these are 40+ years old and still run the show.
+The channel changes; the brain does not. Robert Cialdini's principles of influence — 40+ years old and still running the show.
+This book — Influence — is the bible. Hold it up. We'll walk the principles in the order I memorize them.
 -->
 
 ---
 
-## Cialdini #1 — Reciprocity
+<!-- _class: principle -->
 
-Give first.
+<div class="emoji">🤝</div>
+
+## Reciprocity
+
+<div class="sub">Give first.</div>
 
 <!--
-When you give value first — a free teardown, a useful tip — people feel a pull to give back.
-This is why "free value" outreach outperforms "buy my thing" outreach.
+#1. When you give value first — a free teardown, a useful tip — people feel a pull to give back.
+This is why "free value" outreach beats "buy my thing" outreach.
 -->
 
 ---
 
-## Cialdini #2 — Commitment & consistency
+<!-- _class: principle -->
 
-Small yes → big yes.
+<div class="emoji">😊</div>
+
+## Liking
+
+<div class="sub">Bring joy and people buy from you.</div>
 
 <!--
-People act consistently with what they've already done. A small commitment (that email opt-in!) makes the next, bigger yes far more likely.
-The opt-in isn't just a lead — it's a first small yes.
+#2 — and the one with my best story.
+People buy from people they like. The fastest way to be liked: bring light to someone's day.
+THE DOORSTEP STORY: I was on a long streak of people saying "no, not interested" before I could even start. So I went off-script — before saying anything about myself, I'd compliment something: their house, their car, their garden. Even an ugly, unmaintained house: "I love the color of these bricks — looks sturdy and earthy." The tone flips instantly the moment you give a genuine compliment. Suddenly they'll talk to you.
+Picture two fruit kiosks side by side — one clerk smiling, one frowning. You buy from the smiling one every time.
+OPTIONAL IMAGE: drop a two-fruit-kiosk image (smiling vs frowning clerk) into images/liking-kiosks.png and swap the emoji.
 -->
 
 ---
 
-## Cialdini #3 — Social proof
+<!-- _class: principle -->
 
-"Join 400 others."
+<div class="emoji">👥</div>
+
+## Social proof
+
+<div class="sub">"Join 400 others."</div>
 
 <!--
-People look to others to decide what's safe. Testimonials, user counts, reviews, logos.
+#3. People look to others to decide what's safe. Testimonials, user counts, reviews, logos.
 Nobody wants to be first; everybody wants to be 401st.
 -->
 
 ---
 
-## Cialdini #4 — Authority
+<!-- _class: principle -->
 
-Be the obvious expert.
+<div class="emoji">🎓</div>
+
+## Authority
+
+<div class="sub">Be the obvious expert.</div>
 
 <!--
-Credentials and demonstrated expertise make people defer. A white coat, a track record, a confident teardown.
-We'll come back to the dark side of this in the Incentives session — authority can be abused. For now: earn it and show it.
+#4. Credentials and demonstrated expertise make people defer.
+Earn it and show it. (We'll see the DARK side of authority in the Incentives session — the doctor in the white coat.)
 -->
 
 ---
 
-## Cialdini #5 — Liking
+<!-- _class: principle -->
 
-People buy from people they like.
+<div class="emoji">⏳</div>
+
+## Scarcity
+
+<div class="sub">Real deadlines. Real limits.</div>
 
 <!--
-Similarity, genuine interest, warmth. We say yes to people we like.
-The fastest way to be liked: be genuinely interested in them. Which sets up the next slide…
+#5. Limited slots and real deadlines create urgency. KEY WORD: real. Fake scarcity gets sniffed out and destroys trust.
 -->
 
 ---
 
-## Cialdini #6 — Scarcity
+<!-- _class: principle -->
 
-Real deadlines. Real limits.
+<div class="emoji">✅</div>
+
+## Consistency
+
+<div class="sub">Small yes → big yes.</div>
 
 <!--
-Limited slots, real deadlines create urgency. KEY WORD: real. Fake scarcity gets sniffed out and destroys trust.
+#6. People act consistently with what they've already done. A small commitment (that email opt-in!) makes the next, bigger yes far more likely.
+The opt-in isn't just a lead — it's a first small yes.
+-->
+
+---
+
+<!-- _class: principle -->
+
+<div class="emoji">🫂</div>
+
+## Unity
+
+<div class="sub">"People like us."</div>
+
+<!--
+#7, Cialdini's newest. Shared identity — "we're the same kind of people." Family, team, hometown, alma mater.
+The deepest pull: not "people I like," but "people who ARE me." Find the real shared identity.
 -->
 
 ---
@@ -361,9 +432,9 @@ Limited slots, real deadlines create urgency. KEY WORD: real. Fake scarcity gets
 <span class="attrib">— 7 Habits, Habit 5</span>
 
 <!--
-Here's the secret the slick tactics miss. Covey's Habit 5.
-The best closers ASK more than they pitch. They diagnose before they prescribe. People don't care what you're selling until they feel understood.
-All six Cialdini principles land 10x harder once the person feels heard.
+The secret the slick tactics miss. Covey's Habit 5.
+The best closers ASK more than they pitch. Diagnose before you prescribe. People don't care what you sell until they feel understood.
+All seven principles land 10x harder once the person feels heard.
 -->
 
 ---
@@ -373,7 +444,7 @@ All six Cialdini principles land 10x harder once the person feels heard.
 The sale that screws the customer kills the next ten referrals.
 
 <!--
-Covey Habit 4. Greene's 48 Laws will teach you leverage and power — useful to understand — but in business, repeat games beat one-shot games.
+Covey Habit 4. (48 Laws of Power teaches leverage — useful to understand — but in business, repeat games beat one-shot games.)
 A win/win sale compounds into referrals. A win/lose sale is a dead end. Play long games.
 -->
 
@@ -385,9 +456,9 @@ A win/win sale compounds into referrals. A win/lose sale is a dead end. Play lon
 # is just manipulation.
 
 <!--
-The line that separates a great salesperson from a sleazy one.
-Same six principles. The difference is whether you're helping the customer reach THEIR goal or tricking them toward yours.
-Reinforce with the closing classics: Ziglar — "you can have everything you want if you help enough others get what they want." Bettger — enthusiasm + asking questions. Tracy — 80% of selling is psychology. Holmes — pigheaded discipline on the fundamentals.
+The line between a great salesperson and a sleazy one.
+Same principles. The difference: are you helping the customer reach THEIR goal, or tricking them toward yours?
+Reinforce with the classics — Ziglar: help enough others get what they want; Bettger: enthusiasm + questions; Tracy: 80% of selling is psychology; Holmes: pigheaded discipline on the fundamentals.
 -->
 
 ---
@@ -398,7 +469,7 @@ Reinforce with the closing classics: Ziglar — "you can have everything you wan
 # My reps, unfiltered
 
 <!--
-Three honest stories so this isn't theory.
+Two honest stories so this isn't theory.
 -->
 
 ---
@@ -407,8 +478,8 @@ Three honest stories so this isn't theory.
 *Detachment from outcome.*
 
 <!--
-Story: a specific rough afternoon of rejections, and the moment I stopped taking the no's personally and my numbers improved.
-Lesson: the no's are the job. Detach and keep moving.
+A specific rough afternoon of rejections, and the moment I stopped taking the no's personally and my numbers improved.
+The no's are the job. Detach and keep moving.
 -->
 
 ---
@@ -419,17 +490,6 @@ Lesson: the no's are the job. Detach and keep moving.
 <!--
 I sell the hardest "product" there is — asking a teenager and their parents to commit years of their life to the military.
 No refund, huge stakes, deeply emotional. If you can sell that ethically, you can sell anything.
--->
-
----
-
-## Cold-calling my own startup
-*Right now. This week.*
-
-<!--
-I'm cold-calling small businesses for my AI receptionist company as we speak.
-Share what's working and what's flopping live and unedited — including a recent objection I'm still figuring out.
-Students trust the in-progress story more than the polished one.
 -->
 
 ---
@@ -450,7 +510,7 @@ I'll object. We fix it together.
 
 <!--
 Pick 2-3 volunteers. Each pitches a real or made-up product in 30 seconds.
-I raise a real objection. Then we repair it live using today's frameworks — which lane, which lever, which Cialdini principle, did they seek to understand first.
+I raise a real objection. Then we repair it live using today's frameworks — which lane, which lever, which principle, did they seek to understand first.
 -->
 
 ---
@@ -463,7 +523,7 @@ I raise a real objection. Then we repair it live using today's frameworks — wh
 ## Send 10 warm-outreach messages.
 
 <!--
-The homework / close.
+Homework / close.
 1. Stand up a one-page opt-in for ANY idea this week.
 2. Send 10 warm-outreach messages to people who know you.
 Report back next session.

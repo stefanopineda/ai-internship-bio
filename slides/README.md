@@ -1,6 +1,10 @@
 # Slides
 
-Marp slide decks for the seven sessions. Slides are intentionally **sparse** (one idea each, ~1 min/slide); the full 45-minute talk-track lives in the **speaker notes** (visible in presenter view and exported into the PPTX notes pane).
+Marp slide decks for the seven sessions. Slides are intentionally **sparse** (one idea each, ~1 min/slide); the full 45-minute talk-track lives in two places:
+- **Speaker notes** inside each deck (the `<!-- -->` comments) — visible in presenter view and exported into the PPTX notes pane.
+- **A separate `*-notes.md` file per deck** — one section per slide with richer discussion bullets to read from while presenting (e.g. `01-sell-anything-notes.md`).
+
+Drop-in images and placeholder slots are documented in [`images/README.md`](images/README.md).
 
 ## Build
 

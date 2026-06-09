@@ -104,3 +104,28 @@ section.statement blockquote { font-size: 52px; text-align: center; }
 
 /* ---- Quote attribution ---- */
 .attrib { color: var(--muted); font-size: 26px; margin-top: 0.6em; }
+
+/* ---- Principle slides (big emoji visual) ---- */
+section.principle {
+  text-align: center;
+  align-items: center;
+}
+section.principle .emoji {
+  font-size: 190px;
+  line-height: 1.05;
+  margin: 0 0 0.1em 0;
+}
+section.principle h2 { font-size: 52px; margin: 0; }
+section.principle .sub { color: var(--muted); font-size: 30px; margin-top: 0.3em; }
+section.principle .num {
+  color: var(--accent2);
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  font-size: 22px;
+  text-transform: uppercase;
+}
+
+/* ---- Centered image slides ---- */
+section.imgslide { text-align: center; align-items: center; }
+section.imgslide img { border-radius: 8px; box-shadow: 0 8px 30px rgba(20,33,61,0.18); }
+.caption { color: var(--muted); font-size: 24px; margin-top: 0.5em; }
