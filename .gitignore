@@ -1,0 +1,4 @@
+slides/node_modules/
+slides/dist/
+slides/chrome/
+slides/package-lock.json

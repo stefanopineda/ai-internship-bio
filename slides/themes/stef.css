@@ -1,0 +1,106 @@
+/* @theme stef */
+/* Custom Marp theme — clean, bold, sparse. Talk-track lives in speaker notes. */
+
+@import 'default';
+
+:root {
+  --ink: #14213d;        /* near-black navy */
+  --paper: #fbfbf9;      /* warm off-white */
+  --accent: #1d4e6d;     /* deep navy-teal accent */
+  --accent2: #c8772e;    /* warm amber for emphasis */
+  --muted: #6b7280;      /* gray for sub-text */
+}
+
+section {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  line-height: 1.35;
+  padding: 70px 90px;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 64px;
+  line-height: 1.1;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+  margin: 0 0 0.3em 0;
+}
+
+h2 {
+  font-size: 46px;
+  line-height: 1.15;
+  font-weight: 700;
+  color: var(--ink);
+  margin: 0 0 0.4em 0;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: 600;
+  color: var(--accent2);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin: 0 0 0.6em 0;
+}
+
+strong { color: var(--accent2); font-weight: 700; }
+em { color: var(--muted); font-style: italic; }
+
+ul, ol { margin: 0.2em 0; }
+li { margin: 0.35em 0; }
+
+blockquote {
+  border: none;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 1.25;
+  color: var(--ink);
+  margin: 0;
+  padding: 0;
+}
+blockquote::before, blockquote::after { content: none; }
+
+table { font-size: 26px; }
+th { background: var(--ink); color: var(--paper); }
+
+/* footer / page numbers */
+section::after {
+  color: var(--muted);
+  font-size: 16px;
+}
+
+/* ---- Title / lead slides ---- */
+section.lead {
+  background: var(--ink);
+  color: var(--paper);
+  text-align: left;
+}
+section.lead h1 { color: var(--paper); font-size: 72px; }
+section.lead h2 { color: #aebfd6; font-weight: 500; font-size: 34px; }
+section.lead strong { color: #f0a558; }
+section.lead em { color: #aebfd6; }
+
+/* ---- Section divider slides ---- */
+section.divider {
+  background: var(--ink);
+  color: var(--paper);
+  text-align: left;
+}
+section.divider h1 { color: var(--paper); }
+section.divider h3 { color: #f0a558; }
+section.divider strong { color: #f0a558; }
+
+/* ---- Big single-statement slides ---- */
+section.statement {
+  text-align: center;
+  align-items: center;
+}
+section.statement h1 { font-size: 60px; }
+section.statement blockquote { font-size: 52px; text-align: center; }
+
+/* ---- Quote attribution ---- */
+.attrib { color: var(--muted); font-size: 26px; margin-top: 0.6em; }

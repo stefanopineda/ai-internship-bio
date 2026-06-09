@@ -1,0 +1,17 @@
+{
+  "name": "ai-internship-slides",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Marp slide decks for the AI internship sessions",
+  "scripts": {
+    "pdf": "marp --theme-set themes/ --allow-local-files -o dist/$npm_config_deck.pdf $npm_config_deck.md",
+    "pptx": "marp --theme-set themes/ --allow-local-files -o dist/$npm_config_deck.pptx $npm_config_deck.md",
+    "html": "marp --theme-set themes/ -o dist/$npm_config_deck.html $npm_config_deck.md",
+    "all-pdf": "for f in [0-9]*.md; do marp --theme-set themes/ --allow-local-files -o dist/${f%.md}.pdf $f; done",
+    "all-pptx": "for f in [0-9]*.md; do marp --theme-set themes/ --allow-local-files -o dist/${f%.md}.pptx $f; done",
+    "watch": "marp --theme-set themes/ -w -s ."
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.4.0"
+  }
+}
